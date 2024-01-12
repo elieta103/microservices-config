@@ -1,3 +1,4 @@
+mensaje: Mensaje desde application-dev
 spring:
   application:
     name: Config-Dev

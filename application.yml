@@ -1,7 +1,4 @@
 mensaje: Mensaje desde application-default
-spring:
-  application:
-    name: Config-Default
 eureka:
   instance:
     prefer-ip-address: true

@@ -1,3 +1,4 @@
+mensaje: Mensaje desde application
 eureka:
   instance:
     prefer-ip-address: true
